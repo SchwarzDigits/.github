@@ -1,4 +1,4 @@
-![Schwarz IT logo](claim.png)
+<img src="digits_logo.png" width="256px">
 
 As the technology partner for a sovereign digital Europe, we provide Cloud, Cyber Security, Data & AI, Communication, and Workspace solutions serving businesses, the public sector, and society at large.
 
