@@ -5,23 +5,23 @@
 
 > **Digital Sovereignty for Europe**
 
-As the technology partner for a sovereign digital Europe, we provide Cloud, Cyber Security, Data & AI, Communication, and Workspace solutions serving businesses, the public sector, and society at large.
+As the IT and digital division of the Schwarz Group, we empower **digital self-determination**. We deliver sovereign solutions for **Cloud, Cyber Security, Data & AI, Communication, and Workspace**.
 
-We unify **8,000 experts** from **Schwarz IT**, **STACKIT**, **XM Cyber**, **Kaufland e-commerce**, **Lidl e-commerce**, **Schwarz Media**, and **mmmake**.
+With **8,000 experts** across **34 countries**, we operate on a massive scale. Anchored by our sovereign cloud **STACKIT**, we drive the digital transformation of global market leaders **Lidl & Kaufland**. Beyond the retail core, we are actively scaling **new digital business models**, including **XM Cyber** (Security) and **Omniac** (Identity Protection).
 
 ---
 
 ### 🏗️ Our GitHub Ecosystem
 
-We are currently consolidating our open source presence under the **Schwarz Digits** brand. While we build up this space, please explore our specialized organizations:
+Explore our specialized GitHub organizations:
 
-### ☁️ [STACKIT](https://github.com/stackitcloud)
-> **The sovereign cloud for Europe.**
+### ☁️ &nbsp;[STACKIT](https://github.com/stackitcloud)
+> **The sovereign cloud for Europe.** <br />
 > Dive into our cloud ecosystem: This is the home for our official SDKs, Terraform providers, and open source tools to build your digital future.
 
-### 💻 [Schwarz IT](https://github.com/SchwarzIT)
-> **The retail powerhouse.**
-> Home to our retail solutions and legacy projects.
+### 💻 &nbsp;[Schwarz IT](https://github.com/SchwarzIT)
+> **The digital engine.** <br />
+> While powering the massive-scale ecosystem of Lidl & Kaufland, we are actively expanding our portfolio to establish **new digital business models** beyond the retail core.<br />
 > *Note: We are gradually migrating selected repositories to the Schwarz Digits umbrella.*
 
 ---
