@@ -1,7 +1,5 @@
 <img src="digits_logo.png" width="200px">
 
-# Schwarz Digits
-
 [![Website](https://img.shields.io/badge/Website-digits.schwarz-blue?style=flat&logo=google-chrome)](https://schwarz-digits.de/en)
 [![Careers](https://img.shields.io/badge/Careers-Open_Positions-green?style=flat)](https://schwarz-digits.de/en/jobsearch)
 
