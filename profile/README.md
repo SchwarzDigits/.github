@@ -1,7 +1,8 @@
-<img src="digits_logo.png" width="200px">
+<img src="digits_logo.png" width="200px" alt="Schwarz Digits Logo">
 
 [![Website](https://img.shields.io/badge/Website-digits.schwarz-blue?style=flat&logo=google-chrome)](https://schwarz-digits.de/en)
 [![Careers](https://img.shields.io/badge/Careers-Open_Positions-green?style=flat)](https://schwarz-digits.de/en/jobsearch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Schwarz_Digits-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/schwarz-digits/)
 
 > **Digital Sovereignty for Europe**
 
@@ -23,6 +24,16 @@ Explore our specialized GitHub organizations:
 > **The digital engine.** <br />
 > While powering the massive-scale ecosystem of Lidl & Kaufland, we are actively expanding our portfolio to establish **new digital business models** beyond the retail core.<br />
 > *Note: We are gradually migrating selected repositories to the Schwarz Digits umbrella.*
+
+---
+
+### ❤️ Open Source at Schwarz Digits
+
+At **Schwarz Digits**, we believe in the power of collaboration. The open-source community provides the foundation that enables us to build sovereign, innovative solutions—scaling far beyond retail into cloud, cyber security, and AI—for millions of users worldwide. 
+
+Our success is built on the spirit of shared knowledge, and we're committed to being an active part of that movement. This is our hub for all things open source. Whether you're looking to contribute to our projects, use our tools, or simply learn more about our engineering culture, you'll find everything you need right here. 
+
+**Let's build the digital future, together.**
 
 ---
 
