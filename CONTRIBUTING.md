@@ -1,7 +1,7 @@
 # Contributing
 
-Thank you for your interest in contributing to a Schwarz Digits open-source
-project. We welcome contributions of all kinds, from code and documentation
+Thank you for your interest in contributing to one of our open-source
+projects. We welcome contributions of all kinds, from code and documentation
 to bug reports and feature suggestions.
 
 This document provides general guidelines that apply to all open-source
@@ -64,6 +64,12 @@ Individual projects may provide their own `CONTRIBUTING.md` file with
 project-specific information, such as build instructions, testing
 requirements, or coding conventions. If a project has its own contribution
 guide, it takes precedence over this general document.
+
+## Trademarks
+
+The open-source license of this project does not grant any rights to use
+trademarks owned by Schwarz Digits KG or its affiliated companies within
+the Schwarz Group. For details, see our [Trademark Policy](./TRADEMARKS.md).
 
 ## Questions
 
