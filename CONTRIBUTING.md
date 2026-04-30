@@ -11,7 +11,7 @@ project-specific guidance in their own `CONTRIBUTING.md` file.
 ## Code of Conduct
 
 We expect everyone participating in our community to abide by our
-[Code of Conduct](./CODE_OF_CONDUCT.md). Please read it before contributing.
+[Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Reporting Issues
 
@@ -26,20 +26,6 @@ When reporting a bug, include as much information as possible:
 * Steps to reproduce
 * Relevant version or environment information
 
-## Submitting Changes
-
-We use the standard GitHub pull request workflow:
-
-1. Fork the repository.
-2. Create a branch for your changes.
-3. Make your changes, including documentation and tests where appropriate.
-4. Open a pull request against the project's default branch.
-5. Respond to review feedback.
-
-Each project may have additional requirements regarding code style, tests,
-or commit conventions. Please check the project's own documentation for
-details.
-
 ## Contributor License Agreement
 
 Before we can accept your contribution, you will be asked to sign our
@@ -51,6 +37,20 @@ When you open your first pull request, our CLA Assistant will guide you
 through the process. You only need to sign the CLA once, after which it
 applies to all your future contributions to any of our open-source
 projects.
+
+## Submitting Changes
+
+We use the standard GitHub pull request workflow:
+
+1. Fork the repository.
+2. Create a branch for your changes.
+3. Make your changes.
+4. Open a pull request against the project's default branch.
+5. Respond to review feedback.
+
+Each project may have additional requirements regarding code style, tests,
+or commit conventions. Please check the project's own documentation for
+details.
 
 ## Security Issues
 
@@ -67,12 +67,11 @@ guide, it takes precedence over this general document.
 
 ## Questions
 
-For questions about a specific project, please use the project's
-[GitHub Discussions](https://docs.github.com/discussions) if available, or
-open an issue.
+For questions about a specific project, please use the project's GitHub
+Discussions if available, or open an issue.
 
 For general questions about our open-source initiative, contact the
 Schwarz Digits Open Source community at
 [opensource@digits.schwarz](mailto:opensource@digits.schwarz).
 
-We look forward to your contributions.
+Thank you for taking the time to contribute.

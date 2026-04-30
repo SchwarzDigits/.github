@@ -1,8 +1,8 @@
 # Security Policy
 
 The Schwarz Digits Open Source community takes the security of our software
-seriously. We appreciate the efforts of security researchers and the wider
-community in helping us keep our projects safe.
+seriously. We appreciate the efforts of security researchers in helping us
+keep our projects safe.
 
 ## Scope
 
